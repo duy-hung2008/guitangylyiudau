@@ -1,0 +1,2 @@
+Chép file nhạc mp3 của bạn vào thư mục này và đổi tên thành: nhac-nen.mp3
+(Nếu muốn dùng tên khác, mở index.html, tìm dòng <audio id="bgm" src="nhac/nhac-nen.mp3" ...> rồi sửa tên file.)
